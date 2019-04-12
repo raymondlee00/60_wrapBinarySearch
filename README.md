@@ -12,5 +12,5 @@ The graph looks like this:
   2. i. Does the current element equal the target element? <br />
      ii. If the length of the array is 0, return -1. If the length of the array is 1, return the first element. <br />
      iii. a. combine... <br />
-        b. the result of the recursive abstraction applied to half of the array with... <br />
-        c. ???
+          b. the result of the recursive abstraction applied to half of the array with... <br />
+          c. ???
